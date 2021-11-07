@@ -6,7 +6,7 @@ Depending on the credit card issuer, the length of a credit card number can rang
 The last digit of the number is referred to as the check digit and acts as a checksum. Most credit cards calculate this check digit using the Luhn algorithm (see resources below for how this is calculated).
 
 In order to limit the scope of this assignment, we are going to limit the number of credit card issuers to 3: Visa, MasterCard, and American Express. Each has their own prefixes and length requirements.
-
+   
 -Visa:
   * Prefix(es): 4    
   * Length: 16  
