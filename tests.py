@@ -1,7 +1,6 @@
 import random
 import unittest
 
-# Frankie Herbert
 # CS-362- Random Testing Hands On
 
 from credit_card_validator import credit_card_validator
