@@ -9,17 +9,17 @@ In order to limit the scope of this assignment, we are going to limit the number
 
 -Visa:
   * Prefix(es): 4    
-  * Length: 16    
+  * Length: 16  
 -MasterCard:
   * Prefix(es): 51 through 55 and 2221 through 2720     
-  * Length: 16                               
+  * Length: 16                 
 -American Express:
   * Prefix(es): 34 and 37                  
   * Length: 15                
   
   
   Work Citation:
-  https://replit.com/@coeCS362/random1:
+  https://replit.com/@coeCS362/random1:         
      * for i in range(0,1000):
            val = random.randint(10000000,99999999)
            mystery_func(val)
