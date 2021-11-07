@@ -8,14 +8,14 @@ The last digit of the number is referred to as the check digit and acts as a che
 In order to limit the scope of this assignment, we are going to limit the number of credit card issuers to 3: Visa, MasterCard, and American Express. Each has their own prefixes and length requirements.
 
 -Visa:
-  * Prefix(es): 4
-  * Length: 16
+  * Prefix(es): 4    
+  * Length: 16    
 -MasterCard:
-  * Prefix(es): 51 through 55 and 2221 through 2720 
-  * Length: 16
+  * Prefix(es): 51 through 55 and 2221 through 2720     
+  * Length: 16                               
 -American Express:
-  * Prefix(es): 34 and 37
-  * Length: 15
+  * Prefix(es): 34 and 37                  
+  * Length: 15                
   
   
   Work Citation:
